@@ -1,0 +1,22 @@
+.container-fluid{
+	padding: 0px;
+	height: auto;
+}
+.form-control{
+	width: 500px;
+}
+.trending{
+	border: none;
+	color: black;
+	display: inline-block;
+	text-align: left;
+}
+.navbar a:hover, .nav-item a:hover {
+	color: white;
+}
+.extra a:hover {
+	color: black;
+}
+.jamb5{
+	margin:30px 30px;
+}
